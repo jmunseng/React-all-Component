@@ -1,0 +1,9 @@
+.header {background-color: rgb(219, 219, 219); width: 800px; height:50px ;margin: auto; border-bottom: 2px solid #ccc;}
+.header .logo{width: 100px;float: left;line-height: 50px; font-weight: bold;}
+.header .logo img {height: 50px;}
+.header .menu { width: 600px;float: left;}
+.header .menu ul {display: flex;}
+.header .menu li {padding: 20px;}
+.header .signin { width: 100px;float: left;}
+.header .signin button{height: 50px; width: 100px;background-color: aquamarine;}
+
